@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\profe\source\repos\3NumerosMenores\3NumerosMenores\Source.cpp(1,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\profe\source\repos\3NumerosMenores\3NumerosMenores\Source.cpp(20): warning C4717: 'main': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  3NumerosMenores.vcxproj -> C:\Users\profe\source\repos\3NumerosMenores\Debug\3NumerosMenores.exe
