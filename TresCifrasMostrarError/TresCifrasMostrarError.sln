@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TresCifrasMostrarError", "TresCifrasMostrarError\TresCifrasMostrarError.vcxproj", "{271C6821-D741-48D7-B966-6B905B3F556B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Debug|x64.ActiveCfg = Debug|x64
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Debug|x64.Build.0 = Debug|x64
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Debug|x86.ActiveCfg = Debug|Win32
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Debug|x86.Build.0 = Debug|Win32
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Release|x64.ActiveCfg = Release|x64
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Release|x64.Build.0 = Release|x64
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Release|x86.ActiveCfg = Release|Win32
+		{271C6821-D741-48D7-B966-6B905B3F556B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A2F1F31-A903-458D-A0F8-AC8432F14892}
+	EndGlobalSection
+EndGlobal
